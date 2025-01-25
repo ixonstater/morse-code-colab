@@ -1,2 +1,3 @@
-# morse-code-colab
-Morse code translation in Java with a GUI.
+# Morse Code Translator
+
+A simple Morse code translator written in Java with a [JavaFX](https://openjfx.io/) GUI.
